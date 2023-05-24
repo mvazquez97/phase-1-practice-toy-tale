@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Manuel Vazquez",
+      "image": "https://www.google.com/search?q=image&rlz=1C1VDKB_enUS1011US1011&oq=image&aqs=chrome..69i57j0i131i433i512j0i433i512j0i131i433i512l2j69i65j69i61l2.1150j0j4&sourceid=chrome&ie=UTF-8#imgrc=Q53WJiavu6IJtM",
+      "likes": 2,
+      "id": 9
     }
   ]
 }
